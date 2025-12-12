@@ -1,5 +1,5 @@
 
-This repository contains a multi-page College Club website created as part of the Multi-Page College Club web development assignment. The project is built using only HTML and basic CSS, and demonstrates semantic structure, layout techniques, and HTML forms.
+ The project is built using only HTML and basic CSS, and demonstrates semantic structure, layout techniques, and HTML forms.
 
 
 
